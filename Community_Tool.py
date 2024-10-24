@@ -298,7 +298,7 @@ with tab4:
     col1, col2 = st.columns([1, 1])
 
     with col1:
-        st.subheader('**Here, the user can employ regression and classification methods.**')
+        st.subheader('**Here, the user can employ regression and classification methods...Coming Soon!**')
         st.divider()
 
         # Remove Columns that are Strings
